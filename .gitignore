@@ -1,0 +1,5 @@
+node_modules
+
+backend-gallery/node_modules
+
+**/yarn-error.log

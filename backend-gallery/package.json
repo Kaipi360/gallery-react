@@ -1,0 +1,21 @@
+{
+  "name": "backend-gallery",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node -r esm index.js"
+  },
+  "@std/esm": "cjs",
+  "dependencies": {
+    "bunyan": "^1.8.12",
+    "bunyan-prettystream": "^0.1.3",
+    "eslint": "^4.19.1",
+    "esm": "^3.0.34",
+    "express": "^4.16.3",
+    "prettier": "^1.12.1"
+  },
+  "devDependencies": {
+    "eslint-plugin-react": "^7.8.2"
+  }
+}

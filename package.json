@@ -1,0 +1,9 @@
+{
+  "name": "gallery-react",
+  "version": "1.0.0",
+  "description": "flickr gallery",
+  "main": "src/index.js",
+  "repository": "https://github.com/Kaipi360/gallery-react.git",
+  "author": "Kai Victor <kai-victor.hu@axa-groupsolutions.com>",
+  "license": "MIT"
+}

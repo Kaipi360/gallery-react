@@ -7,5 +7,5 @@
   "author": "Kai Victor <kai-victor.hu@axa-groupsolutions.com>",
   "license": "MIT",
   "dependencies": {},
-  "workspaces": ["backend-gallery/*"]
+  "workspaces": ["backend-gallery/*", "frontend-gallery/*"]
 }
